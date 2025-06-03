@@ -1,0 +1,1 @@
+# Students-ID-Card-Barcode-Scanning-for-Attendance-Generation
