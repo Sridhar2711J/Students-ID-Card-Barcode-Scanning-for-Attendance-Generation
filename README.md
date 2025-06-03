@@ -17,10 +17,10 @@ A web application designed to automate attendance marking by scanning student ID
 ## 🚀 How to Run Locally
 
 1. Clone the repository:  
-   `git clone https://github.com/your-username/student-attendance-barcode.git`
+   `git clone https://github.com/your-username/Students-ID-Card-Barcode-Scanning-for-Attendance-Generation`
 
 2. Navigate to the project folder:  
-   `cd student-attendance-barcode`
+   `cd Students-ID-Card-Barcode-Scanning-for-Attendance-Generation`
 
 3. Install Node.js dependencies:  
    `npm install`
