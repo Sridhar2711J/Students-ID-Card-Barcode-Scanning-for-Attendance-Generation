@@ -28,10 +28,10 @@ A web application designed to automate attendance marking by scanning student ID
 4. Set up your MySQL database with the required tables.
 
 5. Run the server:  
-   `node index.js`
+   `npm start`
 
 6. Open your browser and visit:  
-   `http://localhost:3000` (or your configured port)
+   `http://localhost:5000`
 
 > **Note:** This project requires a backend server to handle barcode scanning and database operations. GitHub Pages can only host the frontend files.
 
