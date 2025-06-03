@@ -17,7 +17,7 @@ A web application designed to automate attendance marking by scanning student ID
 ## 🚀 How to Run Locally
 
 1. Clone the repository:  
-   `git clone https://github.com/your-username/Students-ID-Card-Barcode-Scanning-for-Attendance-Generation`
+   `git clone https://github.com/Sridhar2711J/Students-ID-Card-Barcode-Scanning-for-Attendance-Generation`
 
 2. Navigate to the project folder:  
    `cd Students-ID-Card-Barcode-Scanning-for-Attendance-Generation`
